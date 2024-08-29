@@ -4,13 +4,18 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-cruz-silva-b80425264/)
 
 ### 👨🏻‍💻 Sobre mim
-    👨‍🎓Tenho 19 anos e sou um entusiasta de programação em busca de criar soluções inovadoras. Desde jovem, minha paixão por jogos e computadores me levou a explorar o mundo da tecnologia. 
+    👨‍🎓 Tenho 19 anos e sou um entusiasta de programação em busca de criar soluções inovadoras.
+    Desde jovem, minha paixão por jogos e computadores me levou a explorar o mundo da tecnologia. 
     
-    👾Aqui no meu GitHub, você encontrará uma mistura interessante: de projetos que resolvem problemas práticos a criações pessoais que simplesmente adoro compartilhar. Isso inclui desde soluções técnicas até jogos e outras diversões que desenvolvo por prazer.
+    👾 Aqui no meu GitHub, você encontrará uma mistura interessante: de projetos que resolvem problemas 
+    práticos a criações pessoais que simplesmente adoro compartilhar. Isso inclui desde soluções técnicas 
+    até jogos e outras diversões que desenvolvo por prazer.
 
-    🏃Sou curioso por natureza, o que me impulsiona a aprender constantemente e a expandir meu conhecimento em diversas tecnologias.
+    🏃 Sou curioso por natureza, o que me impulsiona a aprender constantemente e a expandir meu 
+    conhecimento em diversas tecnologias.
 
-    😉Sinta-se à vontade para explorar meus projetos e conectar-se comigo. Estou sempre aberto a novas oportunidades e colaborações! 
+    😉 Sinta-se à vontade para explorar meus projetos e conectar-se comigo. Estou sempre aberto a 
+    novas oportunidades e colaborações! 
 
 
 ## Tecnologias 
