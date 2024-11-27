@@ -2,7 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-cruz-silva-b80425264/)
 
 ### 👨🏻‍💻 Sobre mim
-    👨‍🎓 Tenho 19 anos e sou um entusiasta de programação em busca de criar soluções inovadoras.
+    👨‍🎓 Tenho 19 anos e sou um desenvolvedor full stack.
     Desde jovem, minha paixão por jogos e computadores me levou a explorar o mundo da tecnologia. 
     
     👾 Aqui no meu GitHub, você encontrará uma mistura interessante: de projetos que resolvem problemas 
