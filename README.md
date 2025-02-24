@@ -1,22 +1,13 @@
-### Olá! Eu sou o João Victor 👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-cruz-silva-b80425264/)
 
-### 👨🏻‍💻 Sobre mim
-    👨‍🎓 Tenho 19 anos e sou um desenvolvedor full stack.
-    Desde jovem, minha paixão por jogos e computadores me levou a explorar o mundo da tecnologia. 
-    
-    👾 Aqui no meu GitHub, você encontrará uma mistura interessante: de projetos que resolvem problemas 
-    práticos a criações pessoais que simplesmente adoro compartilhar. Isso inclui desde soluções técnicas 
-    até jogos e outras diversões que desenvolvo por prazer.
-
-    🏃 Sou curioso por natureza, o que me impulsiona a aprender constantemente e a expandir meu 
-    conhecimento em diversas tecnologias.
-
-    😉 Sinta-se à vontade para explorar meus projetos e conectar-se comigo. Estou sempre aberto a 
-    novas oportunidades e colaborações! 
+- 👋 Hi, I’m @joaovictorcruz
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning C#, Python and Node.js
+- 💞️ I’m looking to collaborate on the evolution and growth of studies and research for software devolopment
+- 📫 How to reach me www.linkedin.com/in/joão-victor-cruz-silva333
 
 
-<h2 align="left">Linguagens e Ferramentas</h2>
+<h2 align="left">Languages and Tools</h2>
 
 ###
 
