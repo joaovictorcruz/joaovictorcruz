@@ -3,7 +3,6 @@
 - 👋 Hi, I’m @joaovictorcruz
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning C#, Python and Node.js
-- 💞️ I’m looking to collaborate on the evolution and growth of studies and research for software devolopment
 - 📫 How to reach me www.linkedin.com/in/joão-victor-cruz-silva333
 
 
