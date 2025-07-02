@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m @joaovictorcruz<br><br>- 👀 I’m interested in Software Development<br>- 🌱 I’m currently learning C#, Python and Node.js<br>- 📫 How to reach me www.linkedin.com/in/joão-victor-cruz-silva333</p>
+<p align="left">👋 Hi, I’m @joaovictorcruz<br><br>- 👀 I’m interested in Software Development<br>- 🌱 I’m currently learning C#, Nest.js and React Native<br>- 📫 How to reach me www.linkedin.com/in/joão-victor-cruz-silva333</p>
 
 ###
 
